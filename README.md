@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wefio&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=wefio)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 <!--
 https://github.com/wyMinLwin/github-readme-stats/blob/main/docs/readme_cn.md
